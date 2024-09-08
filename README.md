@@ -42,7 +42,7 @@ Google Fonts: "Plus Jakarta Sans" for a clean, modern typography style.
 
 How to Run the Project
 Clone the repository: git clone https://github.com/GitNinja4988/ML-Projects.git
-cd wellness-wave
+cd ML-Projects
 Future Enhancements
 Expanded Content: Future updates will include additional sections with more wellness-related content, imagery, and interactive elements to engage users further.
 
